@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @abaidmalik243
-- 👀 I’m interested in JS
-- 🌱 I’m currently learning NestJs
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @abaidmalik243, MERN Stack Developer! 
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on "Applied Generative AI and Cloud Native Development"
 - 📫 How to reach me abaidmalik243@gmail.com
 
 <!---
